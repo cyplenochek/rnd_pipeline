@@ -1,6 +1,7 @@
 # plexus_pipeline
 
 Prerequisites:
+
  1) - IAM role for codebuild project has to be created before running this project
     - IAM role for codepipilene has to be created before running this project
  
